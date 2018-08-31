@@ -9,6 +9,7 @@
 * [touch.js](https://github.com/Clouda-team/touch.code.baidu.com.git) 百度移动设备上的手势识别与事件库
 * [hammer.js](https://github.com/hammerjs/hammer.js.git) 一个多点触控手势的JavaScript库
 * [quo.js](https://github.com/soyjavi/QuoJS.git) JavaScript手势库
+* [视频插件](https://github.com/surmon-china/vue-video-player)
 
 ## CSS重置
 * [normalize.css](https://github.com/necolas/normalize.css.git)
@@ -40,6 +41,7 @@
 * [响应式网页测试工具](git@github.com:mattkersley/Responsive-Design-Testing.git) 能够帮助你测试在网页设计和构建过程中的界面效果
 
 * [阿里巴巴矢量图标库](http://www.iconfont.cn/)
+* [web前端开发小助手（浏览器插件）](https://www.baidufe.com/fehelper)
 
 ## study
 * [移动web资源整理](http://www.cnblogs.com/PeunZhang/category/455417.html) 白色橡树
