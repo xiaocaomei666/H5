@@ -10,6 +10,9 @@
 * [hammer.js](https://github.com/hammerjs/hammer.js.git) 一个多点触控手势的JavaScript库
 * [quo.js](https://github.com/soyjavi/QuoJS.git) JavaScript手势库
 * [视频插件](https://github.com/surmon-china/vue-video-player)
+* [Swiper](https://www.swiper.com.cn/)
+* [Vue-Awesome-Swiper](https://github.com/surmon-china/vue-awesome-swiper)
+* [帧动画生成工具](https://github.com/gkajs/gka)
 
 ## CSS重置
 * [normalize.css](https://github.com/necolas/normalize.css.git)
@@ -18,7 +21,7 @@
 * [typo.css](https://github.com/sofish/typo.css.git) 一致化浏览器排版效果，构建最适合中文阅读的网页排版
 
 ## 动画库
-* [animate.css](https://github.com/daneden/animate.css.git) 常用的css3动画库
+* [animate.css](https://github.com/daneden/animate.css.git) [常用的css3动画库](https://daneden.github.io/animate.css/)
 * [magic.css](https://github.com/miniMAC/magic.git)
 * [Effeckt.css](https://github.com/h5bp/Effeckt.css.git) 挺齐全的
 * [动画工具](http://isux.tencent.com/css3/index.html) 腾讯ISUX 在线css3动画工具
